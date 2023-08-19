@@ -1,2 +1,2 @@
 # Casio Glitch Wiki
-Wiki for documenting glitches and exploits on various Casio calculators
+Wiki for documenting glitches and bugs on various Casio calculators
